@@ -1,2 +1,2 @@
 # Geoquiz
-Geoquiz Android App
+Geoquiz, A simple test Android App
